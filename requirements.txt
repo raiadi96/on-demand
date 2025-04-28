@@ -1,0 +1,20 @@
+# WebSocket server
+websockets>=11.0
+
+# AWS SDK
+boto3>=1.26.0
+
+# Audio processing
+ffmpeg-python>=0.2.0
+
+# WebSocket client (for player/testing)
+websocket-client>=1.5.1
+
+# Async HTTP (optional - future proof)
+aiohttp>=3.8.0
+
+# Audio utilities (optional, future expansion)
+pydub>=0.25.1
+
+# If you want to create player with a small GUI
+pygame>=2.1.3
